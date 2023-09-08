@@ -46,6 +46,7 @@ Para utilizar este proyecto, necesitarás:
    - [macOS](https://ffmpeg.org/download.html#build-mac) 🍏
    
    Asegúrate de agregar la carpeta bin de FFmpeg a tus variables de entorno para que el bot pueda usarlo.
+   Puedes seguir los pasos graficos [aqui](/media/ffmpeg)
 
 ### Armado del Circuito 🧩
 
